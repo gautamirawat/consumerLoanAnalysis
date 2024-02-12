@@ -1,3 +1,5 @@
+EDA on Consumer Finance Dataset
+
 A consumer finance company specializing in urban loans faces challenges in approving loans for individuals without sufficient credit history, risking financial losses from defaults. 
 The company aims to minimize these risks through Exploratory Data Analysis (EDA) to make informed loan approval decisions.
 
